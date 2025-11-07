@@ -1,5 +1,4 @@
-## Therese Bunyi 
-(she/they)
+## Therese Bunyi (she/they)
 -
 Hello! I am currently a 1st year student at the University of Arizona studying Computer Science. 
 <!--
