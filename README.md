@@ -4,6 +4,7 @@ Hello! I am currently a 1st year student at the University of Arizona studying C
 Projects
 -
 - skills
+
 Research Interests
 -
 - Egocentric Computer Vision
