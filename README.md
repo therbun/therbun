@@ -1,11 +1,19 @@
 ## Therese Bunyi (she/they)
 Hello! I am currently a 1st year student at the University of Arizona studying Computer Science. 
 
+Projects
+-
+- skills
 Research Interests
 -
 - Egocentric Computer Vision
+- Medical Devices
 - Computational Pathology
 - Ethics of AI 
+
+Projects
+-
+- to add
 
 Fun things
 -
