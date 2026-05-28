@@ -1,5 +1,5 @@
 ## Therese Bunyi (she/they)
-Hello! I am currently a 1st year student at the University of Arizona studying Computer Science. 
+Hello! I am currently a 2nd year student at the University of Arizona studying Computer Science. 
 
 Projects
 -
