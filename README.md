@@ -3,18 +3,17 @@ Hello! I am currently a 1st year student at the University of Arizona studying C
 
 Projects
 -
-- skills
+- coming soon :D
 
 Research Interests
 -
 - Egocentric Computer Vision
-- Medical Devices
-- Computational Pathology
+- Computational Physiology
 - Ethics of AI 
 
 Projects
 -
-- to add
+- coming soon :D
 
 Fun things
 -
