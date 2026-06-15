@@ -9,6 +9,7 @@ Research Interests
 -
 - Egocentric Computer Vision
 - Computational Physiology
+- Mathematical Modeling for Organ Systems
 - Ethics of AI 
 
 Projects
